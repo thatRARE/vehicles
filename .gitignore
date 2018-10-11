@@ -1,0 +1,5 @@
+# Ignore builds
+build/
+builds
+# Ignore npm packages
+node_modules/
